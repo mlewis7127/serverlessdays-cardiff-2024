@@ -1,0 +1,50 @@
+{
+  "layout": "agenda.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Agenda",
+      "description": "One Day. One Track. One Community",
+      "url": "https://cardiff.serverlessdays.io/agenda",
+      "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+  },
+  "agenda": [
+    {
+        "date": "21 September 2023",
+        "type": "date"
+    },
+    {
+        "time": "08:00",
+        "name": "Doors Open",
+        "type": "break"
+    },
+    {
+        "time": "09:15",
+        "name": "Welcome Remarks",
+        "speaker": [
+            {
+                "name": "ServerlessDays Team"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "09.30",
+        "name": "Agenda coming soon",
+        "type": "break"
+    },
+    {
+        "time": "17.15",
+        "name": "Closing Remarks",
+        "speaker": [
+            {
+                "name": "ServerlessDays Team"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "17:30",
+        "name": "Networking and Drinks",
+        "type": "break"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "layout": "tickets.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Tickets",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/tickets",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
+    },
+    "tickets": [
+        {
+            "title": "Early Bird Ticket",
+            "description": "Standard Admission",
+            "price": "£25",
+            "cta": {            
+                "path": "#",
+                "name": "Buy"
+            }
+        },
+        {
+            "title": "Standard Ticket",
+            "description": "Standard Admission",
+            "price": "£35",
+            "cta": {            
+                "path": "#",
+                "name": "Buy"
+            }
+        },
+        {
+            "title": "Standard Ticket + Sponsor Ticket",
+            "description": "Standard Admission for you and sponsor a diversity ticket",
+            "price": "£50",
+            "cta": {            
+                "path": "#",
+                "name": "Buy"
+            }
+        }
+    ]
+}
