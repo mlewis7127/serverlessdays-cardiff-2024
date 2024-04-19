@@ -1,2 +1,2 @@
-# serverlessdays-cardiff-2023
-Website for ServerlessDays Cardiff 2023
+# serverlessdays-cardiff-2024
+Website for ServerlessDays Cardiff 2024
