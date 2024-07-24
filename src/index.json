@@ -34,8 +34,14 @@
     ]
   },
   "speakers": {
-      "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. We will shortly open a call for papers, where we are looking for real life stories of how organisations have adopted serverless, the benefits they have seen, what worked and what didn’t work well and what they expect looking to the future. We hope to announce speakers following the call for papers covering a variety of areas on different cloud providers.",
+      "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. The call for papers has now closed. Many thanks to all who submitted. This year has been incredibly tough to decide, and we are slowly announcing the selected speakers.",
       "lineup": [
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721833756/serverlessdays/Luc_yvj0f6.jpg",
+          "alt": "Luc van Donkersgoed",
+          "link": "/speakers/luc",
+          "talk": "Standing on the Shoulders of Giants - Embracing Serverless in the Enterprise"
+        }
     ]
   },
   "agenda": [
