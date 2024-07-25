@@ -2,7 +2,7 @@
     "layout": "speaker.njk",
     "page": {
         "title": "ServerlessDays Cardiff - Luc van Donkersgoed",
-        "description": "Luc is an AWS Serverless Hero and Principal Engineer at PostNL, where he designs and builds enterprise-scale serverless architectures. He is well known for his articles, presentations, videos, and podcasts about AWS. You can find Luc on Twitter (https://twitter.com/donkersgood), Mastodon (https://hachyderm.io/@donkersgoed), and LinkedIn (https://www.linkedin.com/in/donkersgoed)",
+        "description": "Luc is an AWS Serverless Hero and Principal Engineer at PostNL, where he designs and builds enterprise-scale serverless architectures. He is well known for his articles, presentations, videos, and podcasts about AWS. You can find Luc on Twitter, Mastodon, and LinkedIn (see links above)",
         "url": "https://cardiff.serverlessdays.io/speakers/luc",
         "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721833756/serverlessdays/Luc_yvj0f6.jpg"
     },
@@ -10,7 +10,7 @@
         "name": "Luc van Donkersgoed",
         "title": "Principal Engineer, PostNL",
         "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721833756/serverlessdays/Luc_yvj0f6.jpg",
-        "bio": "Luc is an AWS Serverless Hero and Principal Engineer at PostNL, where he designs and builds enterprise-scale serverless architectures. He is well known for his articles, presentations, videos, and podcasts about AWS. You can find Luc on Twitter (https://twitter.com/donkersgood), Mastodon (https://hachyderm.io/@donkersgoed), and LinkedIn (https://www.linkedin.com/in/donkersgoed)",
+        "bio": "Luc is an AWS Serverless Hero and Principal Engineer at PostNL, where he designs and builds enterprise-scale serverless architectures. He is well known for his articles, presentations, videos, and podcasts about AWS. You can find Luc on Twitter, Mastodon, and LinkedIn (see links above)",
         "talk": {
             "title": "Standing on the Shoulders of Giants - Embracing Serverless in the Enterprise",
             "abstract" : "In the past 6 years, PostNL has built a landscape of over 70 serverless applications. We chose AWS serverless because it is a perfect match for our logistics processes, it is cost-effective, it allows u to focus on our business challenges, and it significantly reduces our operational overhead. But every decision in IT is a trade-off, and embracing serverless is no different. We will highlight the constraints we faced, the new skillsets from our engineers, and the investment required for success. \n\r We will conclude by making up the balance; what has serverless brought our enterprise, what has it cost, and was it worth it?"
@@ -20,6 +20,16 @@
                 "name": "Twitter",
                 "link": "https://twitter.com/donkersgood",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/donkersgoed",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            },
+            {
+                "name": "Mastodon",
+                "link": "https://hachyderm.io/@donkersgoed",
+                "icon": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721937974/serverlessdays/mastodon-white-icon_rbaciq.svg"
             }
         ],
         "links": [
