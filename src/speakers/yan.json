@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Yan Cui",
+        "description": "Yan is an experienced engineer who has run production workload at scale on AWS since 2010. He has been an architect and principal engineer in a variety of industries ranging from banking, e-commerce, sports streaming to mobile gaming. He has worked extensively with AWS Lambda in production since 2015. Nowadays, he splits his time between advancing the state of serverless observability as a Developer Advocate at http://lumigo.io and helping companies around the world adopt serverless as an independent consultant. Yan is also an AWS Serverless Hero and a regular speaker at user groups and conferences internationally. He is the author of Production-Ready Serverless and co-author of Serverless Architectures on AWS, 2nd Edition. And he keeps an active blog at http://theburningmonk.com and hosts a serverless-focused podcast at http://realworldserverless.com",
+        "url": "https://cardiff.serverlessdays.io/speakers/yan",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721934748/serverlessdays/yan_cui_fkmr04.jpg"
+    },
+    "speaker": {
+        "name": "Yan Cui",
+        "title": "Developer Advocate, Lumigo",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721934748/serverlessdays/yan_cui_fkmr04.jpg",
+        "bio": "Yan is an experienced engineer who has run production workload at scale on AWS since 2010. He has been an architect and principal engineer in a variety of industries ranging from banking, e-commerce, sports streaming to mobile gaming. He has worked extensively with AWS Lambda in production since 2015. Nowadays, he splits his time between advancing the state of serverless observability as a Developer Advocate at http://lumigo.io and helping companies around the world adopt serverless as an independent consultant. Yan is also an AWS Serverless Hero and a regular speaker at user groups and conferences internationally. He is the author of Production-Ready Serverless and co-author of Serverless Architectures on AWS, 2nd Edition. And he keeps an active blog at http://theburningmonk.com and hosts a serverless-focused podcast at http://realworldserverless.com",
+        "talk": {
+            "title": "Money-saving tips for the frugal serverless developer",
+            "abstract" : "Join us in this insightful session as we dive into the world of serverless architectures and explore common cost mistakes and learn actionable tips for cutting down wastes and reducing your AWS bill. Whether you're looking to cut down on CloudWatch costs or improve cost-efficiency for your serverless application, we've got some helpful tips, just for you."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

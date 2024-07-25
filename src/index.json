@@ -46,7 +46,19 @@
           "alt": "Luc van Donkersgoed",
           "link": "/speakers/luc",
           "talk": "Standing on the Shoulders of Giants - Embracing Serverless in the Enterprise"
-        }
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721934748/serverlessdays/yan_cui_fkmr04.jpg",
+          "alt": "Yan Cui",
+          "link": "/speakers/yan",
+          "talk": "Money-saving tips for the frugal serverless developer"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721935253/serverlessdays/EmilyShea_bvytix.jpg",
+          "alt": "Emily Shea",
+          "link": "/speakers/emily",
+          "talk": "Evolving Serverless Architectures"
+        }        
     ]
   },
   "agenda": [
