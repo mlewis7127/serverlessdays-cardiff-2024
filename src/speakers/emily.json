@@ -13,7 +13,7 @@
         "bio": "Emily is passionate about serverless technology providing a great entry point for anyone to learn about application development and cloud computing. She is also a self-taught serverless application developer, speaking at multiple AWS re:Invent conferences on her experiences learning serverless. \n\r Emily has spent over six years at Amazon building go-to-market strategies for AWS Serverless and Application Integration services",
         "talk": {
             "title": "Evolving Serverless Architectures",
-            "abstract" : ""
+            "abstract" : "Serverless not only reduces time spent managing infrastructure, but it can also reduce application code. Replacing custom code with fully managed cloud services makes applications more reliable and easier to maintain. Serverless integration services like AWS Step Functions, Amazon EventBridge, Amazon SQS, and Amazon SNS enable you to evolve your application as business requirements change and service features advance. This talk walks through examples of evolving your serverless architectures. These include real world examples of how the Driver and Vehicle Licensing Agency (DVLA) uses serverless to build workflows with AI/ML and human review steps and to integrate with hybrid environments"
         },
         "social": [
         ],
