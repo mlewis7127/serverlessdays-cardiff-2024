@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Sarah Hamilton",
+        "description": "Sarah Hamilton is a Senior Software engineer and AWS Community Builder. She is a huge supporter of Serverless technology and takes great pride in contributing to the entire process, from designing Serverless architectures to building and deploying them. Sarah finds particular joy in collaborating with her team to develop efficient solutions that deliver customer value. Sarah is currently working on a popular e-commerce website that scales to millions of daily users.",
+        "url": "https://cardiff.serverlessdays.io/speakers/sarah",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951145/sarah_hamilton_jsqyzu.jpg"
+    },
+    "speaker": {
+        "name": "Sarah Hamilton",
+        "title": "Senior Software Engineer and AWS Community Builder",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951145/sarah_hamilton_jsqyzu.jpg",
+        "bio": "Sarah Hamilton is a Senior Software engineer and AWS Community Builder. She is a huge supporter of Serverless technology and takes great pride in contributing to the entire process, from designing Serverless architectures to building and deploying them. Sarah finds particular joy in collaborating with her team to develop efficient solutions that deliver customer value. Sarah is currently working on a popular e-commerce website that scales to millions of daily users.",
+        "talk": {
+            "title": "What are you waiting for?",
+            "abstract" : "Asynchronous systems certainly seem tricky to test. Compute and storage are distributed across managed services, and even across regions or accounts. These managed services are difficult to emulate and run locally. And, perhaps most difficult of all, communication across these distributed services is often event-driven and temporal. \n\r But what if we told you there was another way and that asynchronous testing can be a catalyst rather than a constraint? In this talk, we will share a proven approach to testing asynchronous, event-driven architectures that have helped to build reliable, high-quality, enterprise-scale software. \n\r We will walk through a typical asynchronous workflow and design a minimal yet effective test strategy. \n\r Finally, we will introduce you to your new favourite framework for reliability. You’ll be equipped to adopt this framework in your team and start to continuously aim for a harmonious balance between delivery, testing, observability and recovery."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/serverlesssarah",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

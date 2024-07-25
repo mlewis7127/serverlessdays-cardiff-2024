@@ -16,6 +16,11 @@
             "abstract" : "Join us in this insightful session as we dive into the world of serverless architectures and explore common cost mistakes and learn actionable tips for cutting down wastes and reducing your AWS bill. Whether you're looking to cut down on CloudWatch costs or improve cost-efficiency for your serverless application, we've got some helpful tips, just for you."
         },
         "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/theburningmonk",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
         ],
         "links": [
             {

@@ -16,6 +16,11 @@
             "abstract" : "In the past 6 years, PostNL has built a landscape of over 70 serverless applications. We chose AWS serverless because it is a perfect match for our logistics processes, it is cost-effective, it allows u to focus on our business challenges, and it significantly reduces our operational overhead. But every decision in IT is a trade-off, and embracing serverless is no different. We will highlight the constraints we faced, the new skillsets from our engineers, and the investment required for success. \n\r We will conclude by making up the balance; what has serverless brought our enterprise, what has it cost, and was it worth it?"
         },
         "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/donkersgood",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
         ],
         "links": [
             {
