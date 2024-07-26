@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Martin Hogan",
+        "description": "Martin served in the military before getting Law and Business degrees. He has held executive roles in Multinational Pharma, Consulting and Security Companies before founding his first start-up in 2014, leading it to a successful exit in 2018. Building the Safe-Citizens Public Safety Platform™ has long been an ambition, now realised.",
+        "url": "https://cardiff.serverlessdays.io/speakers/martin",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1722027399/serverlessdays/MartinHogan_gk7jmj.jpg"
+    },
+    "speaker": {
+        "name": "Martin Hogan",
+        "title": "Co-Founder and CEO, Safe Citizens",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1722027399/serverlessdays/MartinHogan_gk7jmj.jpg",
+        "bio": "Martin served in the military before getting Law and Business degrees. He has held executive roles in Multinational Pharma, Consulting and Security Companies before founding his first start-up in 2014, leading it to a successful exit in 2018. Building the Safe-Citizens Public Safety Platform™ has long been an ambition, now realised.",
+        "talk": {
+            "title": "Using Serverless to keep people safe in a dangerous world",
+            "abstract" : "All of us here at Safe-Citizens are devoted to helping keep people safe in a sometimes challenging and dangerous world. To that end, we have designed a platform that utilises citizens mobile phones to alert them if they are in the vicinity of a potentially dangerous incident. The first platform specifically designed with public safety in mind- utilising the best technology has to offer combined with very clever proprietary technology. Find out more about how we are using serverless to keep people safe in a dangerous world."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/martindhogan",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

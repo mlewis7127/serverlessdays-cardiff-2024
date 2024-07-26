@@ -106,6 +106,12 @@
           "alt": "Mete Atamel",
           "link": "/speakers/mete",
           "talk": "Improve Your Development Workflow with an AI assistant"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1722027399/serverlessdays/MartinHogan_gk7jmj.jpg",
+          "alt": "Martin Hogan",
+          "link": "/speakers/martin",
+          "talk": "Using Serverless to keep people safe in a dangerous world"
         }
     ]
   },
