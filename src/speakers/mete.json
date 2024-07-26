@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Mete Atamel",
+        "description": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.",
+        "url": "https://cardiff.serverlessdays.io/speakers/mete",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687025803/mete_dsrwqx.jpg"
+    },
+    "speaker": {
+        "name": "Mete Atamel",
+        "title": "Developer Advocate, Google",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687025803/mete_dsrwqx.jpg",
+        "bio": "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.",
+        "talk": {
+            "title": "Improve Your Development Workflow with an AI assistant",
+            "abstract" : "In this live coding session, you’ll learn how an AI assistant can speed up your development workflow. We will start with an empty workspace and design, code, and test an application with Google’s Gemini powered AI assistant. Once the app is ready, we’ll deploy it to the cloud and get help in analyzing its logs again with the help of Gemini. Along the way, you’ll also learn about best practices to get the best out of AI assistants in your development workflow."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/meteatamel",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/meteatamel",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
