@@ -94,7 +94,13 @@
           "alt": "Lawrence Meakins",
           "link": "/speakers/lawrence",
           "talk": "A totally serverless legacy to AWS cloud and Snowflake data warehouse project"
-        }  
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1722025176/serverlessdays/NatashaMcCann_tkfli2.jpg",
+          "alt": "Natasha McCann",
+          "link": "/speakers/tash",
+          "talk": "Building a Zero-ETL Data Pipeline on AWS"
+        }
     ]
   },
   "agenda": [
