@@ -88,7 +88,13 @@
           "alt": "James Cryer",
           "link": "/speakers/james",
           "talk": "Aviva Zero: Carbon-Conscious Car Insurance, evolving our Serverless Architecture"
-        }    
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721992268/serverlessdays/LawrenceMeakins_zdn8so.jpg",
+          "alt": "Lawrence Meakins",
+          "link": "/speakers/lawrence",
+          "talk": "A totally serverless legacy to AWS cloud and Snowflake data warehouse project"
+        }  
     ]
   },
   "agenda": [

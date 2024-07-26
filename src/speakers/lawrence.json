@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Lawrence Meakins",
+        "description": "Lawrence is a solution architect of 8 years working on enterprise AWS projects. Prior to that a developer in Java, C++ and C. He lives in Swansea close to the Gower Peninsular where he enjoys sea swimming and paddle boarding, 3rd year of sea dipping through the winter !",
+        "url": "https://cardiff.serverlessdays.io/speakers/lawrence",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721992268/serverlessdays/LawrenceMeakins_zdn8so.jpg"
+    },
+    "speaker": {
+        "name": "Lawrence Meakins",
+        "title": "Solution Architect, Legal and General",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721992268/serverlessdays/LawrenceMeakins_zdn8so.jpg",
+        "bio": "Lawrence is a solution architect of 8 years working on enterprise AWS projects. Prior to that a developer in Java, C++ and C. He lives in Swansea close to the Gower Peninsular where he enjoys sea swimming and paddle boarding, 3rd year of sea dipping through the winter !",
+        "talk": {
+            "title": "A totally serverless legacy to AWS cloud and Snowflake data warehouse project",
+            "abstract" : "Do you have data languishing in a mainframe legacy system, do you want to be able to analyse that data in a modern cloud platform, do you want to achieve that using AWS serverless technologies ? This is the talk for you ! Covers the technologies & patterns used in the end to end serverless solution. \n\r Like many large organisations a legacy mainframe system is at the heart of the company’s IT and users would like to analyse the data in a modern platform to realise the value of the data. \n\r ELT - Extracts the data from the legacy IBM DB2 mainframe, Loads the data into Snowflake and Transforms it using AWS services to run the workloads using serverless technologies. \n\r * Qlik replicate product running in an ECS Fargate container extracts the data from IBM hosted mainframe over AWS Direct Connect and loads it into Snowflake in near realtime over AWS PrivateLink meaning data never traverses the public internet. \n\r * AWS EventBridge schedules trigger Step Functions that call ECS Fargate containers running dbt core to transform the data using the data vault 2.0 pattern. \n\r * Snowflake Snowsight UI used to run analytical queries on the transformed Snowflake data. \n\r * GitHub runners & actions used to deploy both AWS and Snowflake Infrastructure through terrafom. \n\r * AWS EventBridge rules matching Security Hub and Inspector findings use lambda to format finding and publish to SNS for Microsft Teams alerts and email. \n\r * Microsoft Entra ID used for SAML 2.0 & SCIM integration for SSO & provisioning of end users and groups."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/lawrence-meakins-b1979b66",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
