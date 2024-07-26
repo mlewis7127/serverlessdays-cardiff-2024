@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Amit Muthu",
+        "description": "Amit is a passionate, experienced technology professional with a wide and unusual combination of technical, customer facing and leadership skills",
+        "url": "https://cardiff.serverlessdays.io/speakers/amit",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721989755/serverlessdays/AmitMuthu_aox3oj.jpg"
+    },
+    "speaker": {
+        "name": "Amit Muthu",
+        "title": "Head of Architecture for Digital Identity, Government Digital Service (GDS)",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721989755/serverlessdays/AmitMuthu_aox3oj.jpg",
+        "bio": "Amit is a passionate, experienced technology professional with a wide and unusual combination of technical, customer facing and leadership skills",
+        "talk": {
+            "title": "Serverless adoption on GOV.UK One Login",
+            "abstract" : "GOV.UK One Login lets customers sign in to a Government service with their email address, password and two-factor authentication. They can use these same credentials to access all services that use GOV.UK One Login. As such, it can be considered the most critical major government transformation programme. Come along and find out more about GOV.UK One Login, and why it has chosen serverless technologies when security and resilience are so critical."
+        },
+        "social": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/amit-muthu-1782aa4",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

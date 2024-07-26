@@ -1,0 +1,37 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - James Cryer",
+        "description": "James is a lead engineer for a squad within the Aviva Zero team. He has over a decade of experience building scalable cloud solutions for the BBC, Sophos, and Aviva. He is keen to leverage Cloud Native solutions to reduce the operational burden on engineering teams. When not building software, he loves spending time with his family, travelling, and enjoying live music and sports.",
+        "url": "https://cardiff.serverlessdays.io/speakers/emily",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721990769/serverlessdays/JamesCryer_qo304t.jpg"
+    },
+    "speaker": {
+        "name": "James Cryer",
+        "title": "Lead Software Engineer, Aviva",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721990769/serverlessdays/JamesCryer_qo304t.jpg",
+        "bio": "James is a lead engineer for a squad within the Aviva Zero team. He has over a decade of experience building scalable cloud solutions for the BBC, Sophos, and Aviva. He is keen to leverage Cloud Native solutions to reduce the operational burden on engineering teams. When not building software, he loves spending time with his family, travelling, and enjoying live music and sports.",
+        "talk": {
+            "title": "Aviva Zero: Carbon-Conscious Car Insurance, evolving our Serverless Architecture",
+            "abstract" : "Aviva Zero, a carbon-conscious car insurance product that enables customers to offset their emissions, is built on AWS with a serverless architecture. This talk is a deep dive into how the Aviva Zero team uses EventBridge, EventBridge Scheduler and StepFunctions to evolve their Serverless Architecture. During this talk, we’ll examine how the Aviva team behind Aviva Zero is evolving their serverless event-driven architecture to use EventBridge, EventBridge Scheduler, and StepFunctions to simplify operations and scale production workloads. \n\r * Using EventBridge for safe experimentation in production workloads \n\r * Using EventBridge scheduler to overhaul our scheduling of thousands of daily events \n\r * StepFunctions are used to orchestrate the No Claims Discount process, and AWS SDK service integration is used to deliver improvements at speed."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/jrcryer",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jamescryer",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_80/v1560755840/linkedin_white.png"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

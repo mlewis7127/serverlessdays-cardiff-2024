@@ -76,7 +76,19 @@
           "alt": "Luke Hedger",
           "link": "/speakers/luke",
           "talk": "What are you waiting for?"
-        }         
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721989755/serverlessdays/AmitMuthu_aox3oj.jpg",
+          "alt": "Amit Muthu",
+          "link": "/speakers/amit",
+          "talk": "Serverless adoption on GOV.UK One Login"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1721990769/serverlessdays/JamesCryer_qo304t.jpg",
+          "alt": "James Cryer",
+          "link": "/speakers/james",
+          "talk": "Aviva Zero: Carbon-Conscious Car Insurance, evolving our Serverless Architecture"
+        }    
     ]
   },
   "agenda": [
