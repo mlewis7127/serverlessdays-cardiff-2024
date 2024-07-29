@@ -12,8 +12,8 @@
             "description": "Standard Admission",
             "price": "£25",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2024",
-                "name": "Buy"
+                "path": "#",
+                "name": "Expired"
             }
         },
         {
