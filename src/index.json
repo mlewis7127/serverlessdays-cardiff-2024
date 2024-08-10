@@ -102,12 +102,6 @@
           "talk": "Building a Zero-ETL Data Pipeline on AWS"
         },
         {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687025803/mete_dsrwqx.jpg",
-          "alt": "Mete Atamel",
-          "link": "/speakers/mete",
-          "talk": "Improve Your Development Workflow with an AI assistant"
-        },
-        {
           "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1722027399/serverlessdays/MartinHogan_gk7jmj.jpg",
           "alt": "Martin Hogan",
           "link": "/speakers/martin",
