@@ -23,7 +23,11 @@
             }
         ],
         "silver": [
-
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1723914903/Starling-Bank_Logo_Horizontal_One-line_LIGHT_etbyoj.png",
+                "alt": "Starling Bank",
+                "link": "https://www.starlingbank.com/"    
+            }
         ],
         "community": [
         ]
