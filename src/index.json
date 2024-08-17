@@ -106,6 +106,12 @@
           "alt": "Martin Hogan",
           "link": "/speakers/martin",
           "talk": "Using Serverless to keep people safe in a dangerous world"
+        },
+        {
+          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1723721860/serverlessdays/massimo_re_ferre_pq2ib9.jpg",
+          "alt": "Massimo re Ferrè",
+          "link": "/speakers/massimo",
+          "talk": "Generative AI: tech du-jour or the next big thing?"
         }
     ]
   },
