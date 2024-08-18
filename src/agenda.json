@@ -17,7 +17,7 @@
         "type": "break"
     },
     {
-        "time": "09:15",
+        "time": "09:20",
         "name": "Welcome Remarks",
         "speaker": [
             {
@@ -28,11 +28,149 @@
     },
     {
         "time": "09.30",
-        "name": "Agenda coming soon",
+        "name": "Keynote",
+        "title": "Evolving Serverless Architectures",
+        "speaker": [
+            {
+                "name": "Emily Shea - Head of Serverless Go-to-Market, AWS",
+                "link": "/speakers/emily"
+            },
+            {
+                "name": "Tom Collins - Principal Engineer, DVLA",
+                "link": "/speakers/tom"
+            }
+        ],
+        "type": "keynote"
+    },
+    {
+        "time": "10:20",
+        "name": "Talk",
+        "title": "Aviva Zero: Carbon-Conscious Car Insurance, evolving our Serverless Architecture",
+        "speaker": [
+          {
+            "name": "James Cryer - Lead Software Engineer, Aviva",
+            "link": "/speakers/james"
+          }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "10:50",
+        "name": "Break",
         "type": "break"
     },
     {
-        "time": "17.15",
+        "time": "11:20",
+        "name": "Talk",
+        "title": "Standing on the Shoulders of Giants - Embracing Serverless in the Enterprise",
+        "speaker": [
+          {
+            "name": "Luc van Donkersgoed - Principal Engineer, PostNL",
+            "link": "/speakers/luc"
+          }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "11:55",
+        "name": "Lightning Talk",
+        "title": "A totally serverless legacy to AWS cloud and Snowflake data warehouse project",
+        "speaker": [
+          {
+            "name": "Lawrence Meakins - Solution Architect, Legal and General",
+            "link": "/speakers/lawrence"
+          }
+        ],
+        "type": "lightning"
+    },
+    {
+        "time": "12:15",
+        "name": "Lightning Talk",
+        "title": "Using Serverless to keep people safe in a dangerous world",
+        "speaker": [
+          {
+            "name": "Martin Hogan - Co-Founder and CEO, Safe Citizens",
+            "link": "/speakers/martin"
+          }
+        ],
+        "type": "lightning"
+    },
+    {
+        "time": "12:30",
+        "name": "Lunch",
+        "type": "break"
+    },
+    {
+        "time": "13:30",
+        "name": "Keynote",
+        "title": "Generative AI: tech du-jour or the next big thing?",
+        "speaker": [
+          {
+            "name": "Massimo re Ferrè - Director, Product Management at AWS",
+            "link": "/speakers/massimo"
+          }
+        ],
+        "type": "keynote"
+    },
+    {
+        "time": "14:20",
+        "name": "Talk",
+        "title": "Money-saving tips for the frugal serverless developer",
+        "speaker": [
+          {
+            "name": "Yan Cui - Developer Advocate, Lumigo",
+            "link": "/speakers/yan"
+          }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "15:30",
+        "name": "Break",
+        "type": "break"
+    },
+    {
+        "time": "15:55",
+        "name": "Talk",
+        "title": "Building a Zero-ETL Data Pipeline on AWS",
+        "speaker": [
+          {
+            "name": "Natasha McCann - Senior Solutions Architect, AWS",
+            "link": "/speakers/tash"
+          }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "16:25",
+        "name": "Talk",
+        "title": "Serverless adoption on GOV.UK One Login",
+        "speaker": [
+          {
+            "name": "Amit Muthu - Head of Architecture for Digital Identity, Government Digital Service (GDS)",
+            "link": "/speakers/amit"
+          }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "16:55",
+        "name": "Talk",
+        "title": "What are you waiting for?",
+        "speaker": [
+            {
+                "name": "Sarah Hamilton - Senior Software Engineer and AWS Community Builder",
+                "link": "/speakers/sarah"
+            },
+            {
+                "name": "Luke Hedger - Lead Engineer and AWS Community Builder",
+                "link": "/speakers/luke"
+            }
+        ],
+        "type": "talk"
+    },
+    {
+        "time": "17.00",
         "name": "Closing Remarks",
         "speaker": [
             {
@@ -42,7 +180,7 @@
         "type": "talk"
     },
     {
-        "time": "17:30",
+        "time": "17:15",
         "name": "Networking and Drinks",
         "type": "break"
     }
