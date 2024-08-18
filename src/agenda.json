@@ -125,12 +125,12 @@
         "type": "talk"
     },
     {
-        "time": "15:30",
+        "time": "15:00",
         "name": "Break",
         "type": "break"
     },
     {
-        "time": "15:55",
+        "time": "15:30",
         "name": "Talk",
         "title": "Building a Zero-ETL Data Pipeline on AWS",
         "speaker": [
@@ -142,7 +142,7 @@
         "type": "talk"
     },
     {
-        "time": "16:25",
+        "time": "16:00",
         "name": "Talk",
         "title": "Serverless adoption on GOV.UK One Login",
         "speaker": [
@@ -154,7 +154,7 @@
         "type": "talk"
     },
     {
-        "time": "16:55",
+        "time": "16:30",
         "name": "Talk",
         "title": "What are you waiting for?",
         "speaker": [
