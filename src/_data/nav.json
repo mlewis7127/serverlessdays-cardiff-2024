@@ -1,9 +1,14 @@
 {
     "navBarItems": [
         {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
         },
         {
             "key": "agenda",
