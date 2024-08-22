@@ -2,10 +2,47 @@
     "layout": "workshops.njk",
     "page": {
         "title": "ServerlessDays Cardiff - Workshops",
-        "description": "We are hoping to run a number of hands-on workshops the day before the main conference. Access will be available to those who have a conference ticket. The intention is to give people experience building serverless applications supported by experts. If you or your organisation are interested in running a workshop, please get in touch at cardiff@serverlessdays.io",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
         "url": "https://cardiff.serverlessdays.io/workshops",
-        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
     },
     "workshops": [   
+        
+        {
+            "title": "Building secure and scalable integrations for generative AI",
+            "description": "In this workshop, you will gain hands-on experience with building a production ready generative AI application. The initial lab will introduce you to the basics of invoking an LLM in Amazon Bedrock, OpenAI and basically anywhere and teaches you how the abstraction helps with loose coupling. APIs are front doors to your application. In the next lab you will build both private facing and public facing APIs to invoke a generative AI model. You will learn to enable security on the API, and to protect the API with throttling limits. You will then learn to invoke the foundation models through GraphQL APIs and Pub/Sub APIs. Finally, an optional lab will get you familiar with some advanced concepts on generative AI, like Retrieval-Augmented Generation (RAG), Knowledge Bases and Agents. These concepts will enable you improve your generative AI application by interacting with internal datasources to deliver more relevant, accurate, and customized responses.",
+            "date": "09 Oct 2024",
+            "link": "./integration",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "3.0 hours",
+            "start": "09:30",
+            "location": "Location: BJSS",
+            "capacity": "35",
+            "speakers": [
+                {
+                  "name": "Michael Hume",
+                  "title": "AWS Senior Solutions Architect & UKPS Serverless Lead",
+                  "company": "AWS"
+                }
+            ]
+        },
+        {
+            "title": "Amazon Bedrock Workshop",
+            "description": "The goal of this workshop is to give you hands-on experience in leveraging foundation models (FMs) through Amazon Bedrock. Amazon Bedrock is a fully managed service that provides access to FMs from third-party providers and Amazon; available via an API. With Bedrock, you can choose from a variety of models to find the one that’s best suited for your use case. Within this series of labs, you will go through some of the most common Generative AI usage patterns we are seeing with our customers. You will explore techniques for generating text and images, and learn how to improve productivity by using foundation models to help in composing emails, summarizing text, answering questions, building chatbots, creating images, and generating code. You will gain hands-on experience using Bedrock APIs, SDKs, and open-source software, such as LangChain and FAISS, to implement these usage patterns.",
+            "date": "09 Oct 2024",
+            "link": "./bedrock",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "4.0 hours",
+            "start": "13:00",
+            "location": "Location: BJSS",
+            "capacity": "35",
+            "speakers": [
+                {
+                  "name": "Arnaud Lauer",
+                  "title": "Principal Partner Solutions Architect",
+                  "company": "AWS"
+                }
+            ]
+        }
     ]
 }

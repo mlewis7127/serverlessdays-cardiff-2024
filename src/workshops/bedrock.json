@@ -1,0 +1,29 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "Amazon Bedrock Workshop",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_100/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "description": "The goal of this workshop is to give you hands-on experience in leveraging foundation models (FMs) through Amazon Bedrock. Amazon Bedrock is a fully managed service that provides access to FMs from third-party providers and Amazon; available via an API. With Bedrock, you can choose from a variety of models to find the one that’s best suited for your use case. Within this series of labs, you will go through some of the most common Generative AI usage patterns we are seeing with our customers. You will explore techniques for generating text and images, and learn how to improve productivity by using foundation models to help in composing emails, summarizing text, answering questions, building chatbots, creating images, and generating code. You will gain hands-on experience using Bedrock APIs, SDKs, and open-source software, such as LangChain and FAISS, to implement these usage patterns.",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "BJSS, 5th Floor, One Central Square, Cardiff CF10 1FS",
+            "when": "09 October 2024 @ 13:00",
+            "duration": "4.0 hours"
+        },
+        "speakers": [
+            {
+                "name": "Arnaud Lauer",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1724347252/serverlessdays/arnaud_ghkzdj.jpg",
+                "bio": "Arnaud is a Principal Partner Solutions Architect at AWS. He specialises in Artificial Intelligence and Machine Learning and holds all current AWS certifications.",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/arnaudlauer/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}

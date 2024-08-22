@@ -1,0 +1,29 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "Building secure and scalable integrations for generative AI",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_100/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "description": "In this workshop, you will gain hands-on experience with building a production ready generative AI application. The initial lab will introduce you to the basics of invoking an LLM in Amazon Bedrock, OpenAI and basically anywhere and teaches you how the abstraction helps with loose coupling. APIs are front doors to your application. In the next lab you will build both private facing and public facing APIs to invoke a generative AI model. You will learn to enable security on the API, and to protect the API with throttling limits. You will then learn to invoke the foundation models through GraphQL APIs and Pub/Sub APIs. Finally, an optional lab will get you familiar with some advanced concepts on generative AI, like Retrieval-Augmented Generation (RAG), Knowledge Bases and Agents. These concepts will enable you improve your generative AI application by interacting with internal datasources to deliver more relevant, accurate, and customized responses.",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "BJSS, 5th Floor, One Central Square, Cardiff CF10 1FS",
+            "when": "09 October 2024 @ 09:30",
+            "duration": "3.0 hours"
+        },
+        "speakers": [
+            {
+                "name": "Michael Hume",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/ar_1:1,c_fill,e_art:hokusai,g_auto,w_250/v1689754910/mikehumeserverlesspresso_rznxaa.jpg",
+                "bio": "Michael is as a Senior Solutions Architect for Amazon Web Services, helping Public Sector customers migrate & build software, applications and services on AWS. A proud dedicated member of AWS Serverless technical field community, advocating Serverless to both customers and the wider technical community. He is also a huge Liverpool & Beatles fan!",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/michael-hume-4663bb64/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}
