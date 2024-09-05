@@ -14,12 +14,48 @@
         "speakers": [
             {
                 "name": "Arnaud Lauer",
-                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1724347252/serverlessdays/arnaud_ghkzdj.jpg",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_250,ar_1:1,c_fill,g_auto,e_art:hokusai/v1724347252/serverlessdays/arnaud_ghkzdj.jpg",
                 "bio": "Arnaud is a Principal Partner Solutions Architect at AWS. He specialises in Artificial Intelligence and Machine Learning and holds all current AWS certifications.",
                 "social": [
                     {
                         "name": "LinkedIn",
                         "link": "https://www.linkedin.com/in/arnaudlauer/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Partha Dey",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_250,ar_1:1,c_fill,g_auto,e_art:hokusai/v1725533539/serverlessdays/Partha_z8wlyv.jpg",
+                "bio": "Partha is an FSI Solutions Architect at AWS, specialising in AI/ML with a background in data science, engineering sciences and full stack web development.",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/parthadey97/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            },
+            {
+                "name": "David Medley",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_250,ar_1:1,c_fill,g_auto,e_art:hokusai/v1725533668/serverlessdays/DavidMedley_hwlxgm.jpg",
+                "bio": "David is a Partner Solutions Architect at AWS. He specialises in the design and implementation of enterprise level solutions with 18 years of experience covering defence, public sector, financial services, retail and logistics.",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/david-medley/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Huma Zafar",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/w_250,ar_1:1,c_fill,g_auto,e_art:hokusai/v1725533922/serverlessdays/Huma_vudea4.jpg",
+                "bio": "Huma is an Associate Solutions Architect at AWS.",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/huma-zfr/",
                         "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
                     }
                 ]
