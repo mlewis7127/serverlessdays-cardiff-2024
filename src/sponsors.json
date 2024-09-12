@@ -17,29 +17,34 @@
         ],
         "gold": [
             {
-                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_125/v1690037756/mobilise_yz9u49.svg",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_140/v1690037756/mobilise_yz9u49.svg",
                 "alt": "Mobilise",
                 "link": "https://www.mobilise.cloud/"    
             },
             {
-                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_125/v1690037163/BJSS-Logo-White-RGB_rfmazc.png",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_140/v1690037163/BJSS-Logo-White-RGB_rfmazc.png",
                 "alt": "BJSS",
                 "link": "https://www.bjss.com/"    
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_125/v1528241128/Amazon_Web_Services_Logo_white.png",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_140/v1528241128/Amazon_Web_Services_Logo_white.png",
                 "alt": "Amazon Web Services",
                 "link": "https://aws.amazon.com"    
             }
         ],
         "silver": [
             {
-                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1723914903/Starling-Bank_Logo_Horizontal_One-line_LIGHT_etbyoj.png",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_70/v1723914903/Starling-Bank_Logo_Horizontal_One-line_LIGHT_etbyoj.png",
                 "alt": "Starling Bank",
-                "link": "https://www.starlingbank.com/"    
+                "link": "https://www.starlingbank.com/"
             }
         ],
         "community": [
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_50/v1726131371/serverlessdays/DiffusionData-Logo-White_i8oaqj.png",
+                "alt": "Diffusion Data",
+                "link": "https://www.diffusiondata.com/"
+            }
         ]
     }
 }

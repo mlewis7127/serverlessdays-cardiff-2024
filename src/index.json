@@ -48,9 +48,12 @@
         "link": "https://www.starlingbank.com/"    
       }
     ],
-    "bronze": [
-    ],
     "community": [
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_40/v1726131122/serverlessdays/DiffusionData-Logo-Primary_i1ets7.png",
+        "alt": "Diffusion Data",
+        "link": "https://www.diffusiondata.com/"
+      }
     ]
   },
   "speakers": {
