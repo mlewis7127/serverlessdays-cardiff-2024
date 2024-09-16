@@ -53,6 +53,11 @@
         "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_40/v1726479789/serverlessdays/DiffusionData-Logo-Reverse_druq8x.png",
         "alt": "Diffusion Data",
         "link": "https://www.diffusiondata.com/"
+      },
+      {
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_40/v1726482355/serverlessdays/BBC-Logo_txz5gv.png",
+        "alt": "BBC",
+        "link": "https://www.bbc.co.uk/"
       }
     ]
   },
